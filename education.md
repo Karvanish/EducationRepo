@@ -7,3 +7,8 @@
 
 > Установка Visual Studio Code
 <https://code.visualstudio.com/>
+
+
+2. После установки GIT и среды разработки Visual Studio Code нам необходимо открыть Visual Studio Code и в терминале внутри программы проверить версию GIT, чтобы убедиться, что программа установлена корректно. Команда ниже.
+
+ - git --version
